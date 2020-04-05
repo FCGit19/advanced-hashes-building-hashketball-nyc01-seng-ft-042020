@@ -1,9 +1,8 @@
 def game_hash
   qualities = {
     
-    :home => 
-    
-    { :team_name => "Brooklyn Nets" }, 
+    home: { 
+      team_name: "Brooklyn Nets" }, 
     
     { :colors = 
     
