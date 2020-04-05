@@ -1,5 +1,5 @@
 def game_hash
-  qualities = {
+  nba_match = {
     
     home: { 
       team_name: "Brooklyn Nets", 
@@ -43,5 +43,5 @@ def game_hash
   }
 
   
-  qualities
+  nba_match
 end 
