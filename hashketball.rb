@@ -42,6 +42,5 @@ def game_hash
     }
   }
 
-  
   nba_match
 end 
